@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
     /* ================================================
     1. ATUR NOMOR WHATSAPP TUJUAN DI SINI
     ================================================ */
-    const nomorWA = "6285855557724"; 
+    const nomorWA = "628988669000"; 
     
     /* ================================================
     2. MENGAMBIL DATA DARI SEMUA INPUT FIELD
